@@ -1,6 +1,6 @@
 <h1> Java Mooc.fi Excersises :grinning:</h1>
 
-University of Helsinki offers am effective course for Java :grinning:
+
 This repository contains my solutions to the exercises for the [University of Helsinki online Java course](https://moocfi.github.io/courses/2013/programming-part-1/)
 <h2>Course Cconten:</h2>
 <h3>Week 1</h3>
