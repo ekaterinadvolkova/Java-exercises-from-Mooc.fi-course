@@ -18,5 +18,5 @@ This repository contains my solutions to the exercises for the [University of He
 <h3>Week 5</h3>
 :fire:More on objects
 
-[<h3>Week 6</h3>](#Week_6)
+[<h3>Week 6</h3>](https://github.com/ekaterinadvolkova/Java-exercises-from-Mooc.fi-course/tree/main/Week_6)
 :fire:Tables, Sorting, Searching
