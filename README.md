@@ -11,7 +11,7 @@ This repository contains my solutions to the exercises for the [University of He
 [<h3>Week 2</h3>](https://github.com/ekaterinadvolkova/Java-exercises-from-Mooc.fi-course/tree/main/Week_2)
 :fire:Loops, Basics of methods
 
-<h3>Week 3</h3>
+[<h3>Week 3</h3>](https://github.com/ekaterinadvolkova/Java-exercises-from-Mooc.fi-course/tree/main/Week_3)
 :fire:Methods, The ArrayList data structure
 
 <h3>Week 4</h3>
