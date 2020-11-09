@@ -17,7 +17,7 @@ This repository contains my solutions to the exercises for the [University of He
 [<h3>Week 4</h3>](https://github.com/ekaterinadvolkova/Java-exercises-from-Mooc.fi-course/tree/main/Week_4)
 :fire:Basics of objects
 
-<h3>Week 5</h3>
+[<h3>Week 5</h3>](https://github.com/ekaterinadvolkova/Java-exercises-from-Mooc.fi-course/tree/main/Week_5)
 :fire:More on objects
 
 [<h3>Week 6</h3>](https://github.com/ekaterinadvolkova/Java-exercises-from-Mooc.fi-course/tree/main/Week_6)
