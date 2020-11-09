@@ -3,7 +3,7 @@
 
 This repository contains my solutions to the exercises for the [University of Helsinki online Java course](https://moocfi.github.io/courses/2013/programming-part-1/)
 <h2>Course Content:</h2>
-<h3>Week 1</h3>
+[<h3>Week 1</h3>](https://github.com/ekaterinadvolkova/Java-exercises-from-Mooc.fi-course/tree/main/Week1)
 :fire:User input, Printing on screen, Conditional statements
 
 <h3>Week 2</h3>
