@@ -39,7 +39,7 @@ This repository contains my solutions to the exercises for the [University of He
 * Introduction to testing
 * Complex programs
 
-[<h3>Part 7</h3>]()
+[<h3>Part 7</h3>](https://github.com/ekaterinadvolkova/Java-Programming-Part-I/tree/main/week_7)
 * Programming paradigms
 * Alrorithms
 * Larger programming exercises
